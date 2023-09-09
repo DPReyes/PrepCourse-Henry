@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modulo2 del PrepCourse de SoyHenry
+Daniel Peña Reyes
+Este es un proyecto de prueba para crear un repositorio y clonarlo desde github a mi compu
